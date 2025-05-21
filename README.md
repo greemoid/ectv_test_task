@@ -15,3 +15,5 @@ Sorry about the low FPS demo :(
    ```bash
    git clone https://github.com/greemoid/ectv_test_task.git
    cd ectv_test_task
+   flutter pub get
+   flutter run
