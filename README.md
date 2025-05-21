@@ -1,16 +1,17 @@
-# ectv_test_task
+# ECTV Test Task
 
-A new Flutter project.
+Demo video:  
+[3.webm](https://github.com/user-attachments/assets/21650ff2-1b7c-4ece-9ad8-be030b983f90)
+Sorry about the low FPS demo :(
+
+## Features
+- Navigation implemented using `go_router`
+- Smooth animations with `flutter_animate`
+- Release APK available in the `release` folder
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/greemoid/ectv_test_task.git
+   cd ectv_test_task
